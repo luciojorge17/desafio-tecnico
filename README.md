@@ -7,6 +7,7 @@
 - MySQL
 - CodeIgniter 4
 - XAMPP
+- Bootstrap
 
 ---
 
